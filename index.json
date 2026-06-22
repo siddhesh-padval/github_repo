@@ -9,6 +9,16 @@
       "file": "papers/gate_cs_2024.json",
       "total_questions": 8,
       "total_marks": 15.0
+    },
+        {
+      "paper_id": "gate_ph_2018",
+      "exam": "GATE",
+      "subject": "PH",
+      "year": "2018",
+      "title": "GATE PH 2018 (Sample)",
+      "file": "papers/gate_ph_2018.json",
+      "total_questions": 48,
+      "total_marks": 48.0
     }
   ]
 }
