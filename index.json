@@ -1,0 +1,14 @@
+{
+  "papers": [
+    {
+      "paper_id": "gate_cs_2024",
+      "exam": "GATE",
+      "subject": "CS",
+      "year": "2024",
+      "title": "GATE CS 2024 (Sample)",
+      "file": "papers/gate_cs_2024.json",
+      "total_questions": 8,
+      "total_marks": 15.0
+    }
+  ]
+}
