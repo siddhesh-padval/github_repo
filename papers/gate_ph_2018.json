@@ -1,0 +1,240 @@
+{
+  "paper_id": "gate_ph_2018",
+  "exam": "GATE",
+  "subject": "PH",
+  "year": "2018",
+  "total_questions": 48,
+  "questions": [
+    {
+      "id": "gate_ph_2018_1",
+      "exam": "GATE",
+      "subject": "PH",
+      "year": "2018",
+      "marks": 1.0,
+      "negative_marks": 0.33,
+      "question": "The eigenvalues of a Hermitian matrix are all",
+      "options": [
+        "real",
+        "imaginary",
+        "of modulus one",
+        "real and positive"
+      ],
+      "answer_index": 0,
+      "explanation": ""
+    },
+    {
+      "id": "gate_ph_2018_3",
+      "exam": "GATE",
+      "subject": "PH",
+      "year": "2018",
+      "marks": 1.0,
+      "negative_marks": 0.33,
+      "question": "Given the matching of experiments and inferences, which option correctly matches them?",
+      "options": [
+        "P-2, Q-3, R-4, S-1",
+        "P-1, Q-3, R-2, S-4",
+        "P-3, Q-4, R-2, S-1",
+        "P-2, Q-1, R-4, S-3"
+      ],
+      "answer_index": 2,
+      "explanation": ""
+    },
+    {
+      "id": "gate_ph_2018_4",
+      "exam": "GATE",
+      "subject": "PH",
+      "year": "2018",
+      "marks": 1.0,
+      "negative_marks": 0.33,
+      "question": "In spherical polar coordinates (r,θ,φ), the unit vector θ̂ at (10, π/4, π/2) is",
+      "options": [
+        "k̂",
+        "(ĵ+k̂)/√2",
+        "(-ĵ+k̂)/√2",
+        "(ĵ-k̂)/√2"
+      ],
+      "answer_index": 3,
+      "explanation": ""
+    },
+    {
+      "id": "gate_ph_2018_5",
+      "exam": "GATE",
+      "subject": "PH",
+      "year": "2018",
+      "marks": 1.0,
+      "negative_marks": 0.33,
+      "question": "The scale factors corresponding to the covariant metric tensor gij in spherical polar coordinates are",
+      "options": [
+        "1, r², r²sin²θ",
+        "1, r², sin²θ",
+        "1,1,1",
+        "1, r, r sinθ"
+      ],
+      "answer_index": 3,
+      "explanation": ""
+    },
+    {
+      "id": "gate_ph_2018_6",
+      "exam": "GATE",
+      "subject": "PH",
+      "year": "2018",
+      "marks": 1.0,
+      "negative_marks": 0.33,
+      "question": "In the context of small oscillations, which one does NOT apply to normal coordinates?",
+      "options": [
+        "Each normal coordinate has an eigen-frequency",
+        "The normal coordinates are orthogonal",
+        "The normal coordinates are all independent",
+        "Potential energy is sum of squares of normal coordinates"
+      ],
+      "answer_index": 1,
+      "explanation": ""
+    },
+
+    {
+      "id": "gate_ph_2018_8",
+      "exam": "GATE",
+      "subject": "PH",
+      "year": "2018",
+      "marks": 1.0,
+      "negative_marks": 0.33,
+      "question": "Among electric field, magnetic field, angular momentum and vector potential, which are odd under parity?",
+      "options": [
+        "Electric field only",
+        "Electric field and vector potential",
+        "Electric field and magnetic field",
+        "Magnetic field and angular momentum"
+      ],
+      "answer_index": 1,
+      "explanation": ""
+    },
+
+    {
+      "id": "gate_ph_2018_9",
+      "exam": "GATE",
+      "subject": "PH",
+      "year": "2018",
+      "marks": 1.0,
+      "negative_marks": 0.33,
+      "question": "The expression for the second overtone frequency in vibrational absorption spectra of a diatomic molecule is",
+      "options": [
+        "2ωe(1−xe)",
+        "2ωe(1−3xe)",
+        "3ωe(1−2xe)",
+        "3ωe(1−4xe)"
+      ],
+      "answer_index": 3,
+      "explanation": ""
+    },
+
+    {
+      "id": "gate_ph_2018_11",
+      "exam": "GATE",
+      "subject": "PH",
+      "year": "2018",
+      "marks": 1.0,
+      "negative_marks": 0.33,
+      "question": "The logic expression A̅BC + A̅B̅C + ABC̅ + AB̅C̅ simplifies to",
+      "options": [
+        "A XOR C",
+        "A AND C̅",
+        "0",
+        "1"
+      ],
+      "answer_index": 0,
+      "explanation": ""
+    },
+
+    {
+      "id": "gate_ph_2018_12",
+      "exam": "GATE",
+      "subject": "PH",
+      "year": "2018",
+      "marks": 1.0,
+      "negative_marks": 0.33,
+      "question": "At low temperatures the specific heat of common metals is described by",
+      "options": [
+        "αT + βT³",
+        "βT³",
+        "exp(-α/T)",
+        "αT + βT⁵"
+      ],
+      "answer_index": 0,
+      "explanation": ""
+    },
+
+    {
+      "id": "gate_ph_2018_15",
+      "exam": "GATE",
+      "subject": "PH",
+      "year": "2018",
+      "marks": 1.0,
+      "negative_marks": 0.33,
+      "question": "The intrinsic/permanent electric dipole moment in the ground state of hydrogen atom is",
+      "options": [
+        "-3ea₀",
+        "zero",
+        "ea₀",
+        "3ea₀"
+      ],
+      "answer_index": 1,
+      "explanation": ""
+    },
+
+    {
+      "id": "gate_ph_2018_16",
+      "exam": "GATE",
+      "subject": "PH",
+      "year": "2018",
+      "marks": 1.0,
+      "negative_marks": 0.33,
+      "question": "For χ ∝ 1/(T+θ), paramagnetic, ferromagnetic and antiferromagnetic behaviors correspond respectively to",
+      "options": [
+        "θ<0, θ>0, θ=0",
+        "θ>0, θ<0, θ=0",
+        "θ=0, θ<0, θ>0",
+        "θ=0, θ>0, θ<0"
+      ],
+      "answer_index": 2,
+      "explanation": ""
+    },
+
+    {
+      "id": "gate_ph_2018_17",
+      "exam": "GATE",
+      "subject": "PH",
+      "year": "2018",
+      "marks": 1.0,
+      "negative_marks": 0.33,
+      "question": "Which one of the following is an allowed electric dipole transition?",
+      "options": [
+        "1S0 → 3S1",
+        "2P3/2 → 2D5/2",
+        "2D5/2 → 2P1/2",
+        "3P0 → 5D0"
+      ],
+      "answer_index": 1,
+      "explanation": ""
+    },
+
+    {
+      "id": "gate_ph_2018_18",
+      "exam": "GATE",
+      "subject": "PH",
+      "year": "2018",
+      "marks": 1.0,
+      "negative_marks": 0.33,
+      "question": "In the decay μ+ → e+ + νe + X, what is X?",
+      "options": [
+        "γ",
+        "ν̅e",
+        "νμ",
+        "ν̅μ"
+      ],
+      "answer_index": 3,
+      "explanation": ""
+    }
+
+    
+  ]
+}
